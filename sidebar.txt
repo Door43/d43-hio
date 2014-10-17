@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hio:home|Door43 (hio)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hio|d43-hio repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hio/archive/master.zip|d43-hio.zip]]
+
+**Recent Changes**
+{{changes>ns = hio}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hio|Ethnologue data]]
+
